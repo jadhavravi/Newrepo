@@ -1,0 +1,11 @@
+HomeScreenNew As screen:
+
+    lblApp1 As label:
+        Height: =268
+        Size: =36
+        Text: ="App1"
+        Width: =547
+        X: =40
+        Y: =40
+        ZIndex: =1
+

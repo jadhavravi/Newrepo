@@ -1,0 +1,11 @@
+NewScreen2 As screen:
+
+    Newlbl As label:
+        Height: =176
+        Size: =40
+        Text: ="App2"
+        Width: =512
+        X: =40
+        Y: =40
+        ZIndex: =1
+
